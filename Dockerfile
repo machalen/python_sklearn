@@ -1,7 +1,7 @@
 ##################################################################################
 # Dockerfile to build container images for Machine Learning analysis with Python
-# Installed libraries: numpy, scipy, scikit-learn, lxml, pandas and matplotlib.pyplot
 # Based on Debian
+# Installed libraries: numpy, scipy, scikit-learn, lxml, pandas and matplotlib.pyplot
 # This Dockerfile is a copy of the "ecoron/python36-sklearn" repository but I install
 # two additional packages: pandas and matplotlib.pyplot
 ############################################################
