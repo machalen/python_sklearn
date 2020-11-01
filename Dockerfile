@@ -8,7 +8,7 @@
 
 FROM debian:jessie-slim
 
-MAINTAINER machalen but based in ecoron Dockerfile
+MAINTAINER machalen
 
 RUN echo 'deb http://ftp.de.debian.org/debian jessie main' >> /etc/apt/sources.list
 RUN echo 'deb http://security.debian.org/debian-security jessie/updates main ' >> /etc/apt/sources.list
