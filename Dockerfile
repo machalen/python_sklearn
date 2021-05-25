@@ -17,6 +17,7 @@ RUN \
         scipy \
         scikit-learn \
         pandas \
-        matplotlib
+        matplotlib \
+        imblearn
 
 WORKDIR /home/user
