@@ -10,3 +10,4 @@ Included libraries in Python 3.6.1 are:
 - lxml
 - pandas
 - matplotlib.pyplot
+- imblearn
